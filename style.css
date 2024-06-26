@@ -1,0 +1,12 @@
+th {
+    padding: 30px;
+    color: ;
+    border: 2px solid black;
+    text-decoration: underline;
+}
+
+td {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
